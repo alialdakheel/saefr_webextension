@@ -8,7 +8,7 @@ This repo contains a google chrome extension that calculates the Security Risk o
 
 Based on the project: https://github.com/josteink/gmailjs-node-boilerplate
 
-Uses the [gmail.js](https://github.com/KartikTalwar/gmail.js/) library.
+that Uses the Gmail.js API: [gmail.js](https://github.com/KartikTalwar/gmail.js/) library.
 
 ## Usage
 
@@ -33,8 +33,8 @@ On Chrome:
 for more info: https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/
 
 
-The extension only print the message body to developer console (for now) when a user open a gmail message. 
-etension.js is where you need to edit for message handling, viewing, etc. 
+* The extension only print the message body to developer console (for now) when a user open a gmail message. 
+* etension.js is where you need to edit for message handling, viewing, etc. 
 
 
 To Do: 
